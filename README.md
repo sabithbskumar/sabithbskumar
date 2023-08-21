@@ -4,9 +4,7 @@ I am a self-taught programmer, I have been learning how to code for more than ha
 
 ## Technical Skills
 
-![Python Badge](https://img.shields.io/badge/python-fbcb24?style=for-the-badge&logo=python&logoColor=fbcb24&labelColor=black)
-
-![Node.js Badge](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=black)
+### Web Development
 
 ![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
 
@@ -20,11 +18,19 @@ I am a self-taught programmer, I have been learning how to code for more than ha
 
 ![Typescript Badge](https://img.shields.io/badge/typescript-007acc?style=for-the-badge&logo=typescript&logoColor=007acc&labelColor=black)
 
-![MySQL Badge](https://img.shields.io/badge/mysql-F29111?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=black)
+### Programming Languages
+
+![Python Badge](https://img.shields.io/badge/python-fbcb24?style=for-the-badge&logo=python&logoColor=fbcb24&labelColor=black)
+
+![Node.js Badge](https://img.shields.io/badge/node.js-68a063?style=for-the-badge&logo=node.js&logoColor=68a063&labelColor=black)
 
 ![C Badge](https://img.shields.io/badge/C-5C6BC0?style=for-the-badge&logo=c&logoColor=5C6BC0&labelColor=black)
 
 ![Java Badge](https://img.shields.io/badge/java-F80000?style=for-the-badge&logo=openjdk&logoColor=F80000&labelColor=black)
 
 ![PHP Badge](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=777BB4&labelColor=black)
+
+### Database Management
+
+![MySQL Badge](https://img.shields.io/badge/mysql-F29111?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=black)
 
