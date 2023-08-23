@@ -4,6 +4,10 @@ I am a self-taught programmer, I have been learning how to code for more than ha
 
 ## Technical Skills
 
+### Currently Learning
+
+![Vue.js Badge](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=4FC08D&labelColor=black)
+
 ### Web Development
 
 ![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black)
@@ -33,4 +37,16 @@ I am a self-taught programmer, I have been learning how to code for more than ha
 ### Database Management
 
 ![MySQL Badge](https://img.shields.io/badge/mysql-F29111?style=for-the-badge&logo=mysql&logoColor=F29111&labelColor=black)
+
+### Tools
+
+![Neovim Badge](https://img.shields.io/badge/Neovim-57A143?style=for-the-badge&logo=neovim&logoColor=57A143&labelColor=black)
+
+![Vite Badge](https://img.shields.io/badge/vite-BD34FE?style=for-the-badge&logo=vite&logoColor=FFDD35&labelColor=black)
+
+## Traffic
+
+[![Profile Hits](https://hits.sh/github.com/sabithbskumar/sabithbskumar.svg?style=for-the-badge&label=views&labelColor=000000&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxZW0iIGhlaWdodD0iMWVtIiB2aWV3Qm94PSIwIDAgMjQgMjQiPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0xMiA0LjVDNyA0LjUgMi43MyA3LjYxIDEgMTJjMS43MyA0LjM5IDYgNy41IDExIDcuNXM5LjI3LTMuMTEgMTEtNy41Yy0xLjczLTQuMzktNi03LjUtMTEtNy41ek0xMiAxN2MtMi43NiAwLTUtMi4yNC01LTVzMi4yNC01IDUtNXM1IDIuMjQgNSA1cy0yLjI0IDUtNSA1em0wLThjLTEuNjYgMC0zIDEuMzQtMyAzczEuMzQgMyAzIDNzMy0xLjM0IDMtM3MtMS4zNC0zLTMtM3oiLz48L3N2Zz4%3D)](https://hits.sh/github.com/sabithbskumar/sabithbskumar/)
+
+p.s. i use arch btw
 
