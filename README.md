@@ -16,7 +16,7 @@ I am a self-taught programmer, I have been learning how to code for more than ha
 
 ![HTML5 Badge](https://img.shields.io/badge/html-f06529?style=for-the-badge&logo=html5&logoColor=f06529&labelColor=black)
 
-![CSS3 Badge](https://img.shields.io/badge/css-2965f1?style=for-the-badge&logo=css3&logoColor=2965f1&labelColor=black)
+![CSS3 Badge](https://img.shields.io/badge/css-663399?style=for-the-badge&logo=css&logoColor=663399&labelColor=black)
 
 ![Javascript Badge](https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=black)
 
